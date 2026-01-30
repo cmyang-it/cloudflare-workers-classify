@@ -29,7 +29,7 @@
 - 点击右上角**部署**按钮
   显示部署成功后，返回到 worker 设置界面
 - 配置自定义域名
-  cloudflare 给定的默认访问链接再国内访问容易被墙，需要自定义一个域名，关于添加自定义域名的方式，请访问：[如何通过CloudFlare添加自己的域名站点，创建自定义域访问Workers服务-羲阳博客](https://xiyangai.cn/archives/cloudflare-custom-domain)
+  cloudflare 给定的默认访问链接再国内访问容易被墙，需要自定义一个域名，关于添加自定义域名的方式，请访问：[创建自定义域访问Workers服务](https://xiyangai.cn/archives/cloudflare-custom-domain)
 
 ### 2. 新增环境变量
 - 再 **设置** 界面新增变量，**保持并部署**。
