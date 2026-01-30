@@ -1,0 +1,2 @@
+# cloudflare-workers-classify
+通过cloudflare的workers部署AI 图像分类，支持网页端上传图片以及接口调用的形式。支持自定义令牌认证以及是否启用认证
